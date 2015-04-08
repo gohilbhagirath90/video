@@ -1,4 +1,6 @@
-package com.bhagirtah.videostream;
+package com.bhagirath.videostream;
+
+import com.bhagirtah.videostream.R;
 
 import android.app.Activity;
 import android.os.Bundle;
